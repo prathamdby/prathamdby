@@ -10,6 +10,7 @@ Full Stack Developer and Student
 * 🚀  I'm currently working on [My-Telegram-Bot](http://github.com/prathamdby/My-Telegram-Bot)
 * 🧠  I'm learning Computer Applications
 * 🤝  I'm open to collaborating on exciting projects as a full-stack developer and team member.
+* ⚡  Find my automation stuff and workflows at [@prathamdby-alt](https://github.com/prathamdby-alt).
 
 <a href="https://www.github.com/prathamdby" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prathamdby?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
