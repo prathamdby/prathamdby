@@ -5,7 +5,7 @@ Full Stack Developer and Student
 --------------------------------
 
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [prathamdby.github.io](https://prathamdby.github.io)
+* 🖥️  See my portfolio at [prathamdby.me](https://prathamdby.me)
 * ✉️  You can contact me at [prathamdby@proton.me](mailto:prathamdby@proton.me)
 * 🚀  I'm currently working on [My-Telegram-Bot](http://github.com/prathamdby/My-Telegram-Bot)
 * 🧠  I'm learning Computer Applications
