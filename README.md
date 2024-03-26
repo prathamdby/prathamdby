@@ -7,7 +7,7 @@ Aspiring Full Stack Developer and Student
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [prathamdby.me](https://prathamdby.me)
 * ✉️  You can contact me at [prathamdby@proton.me](mailto:prathamdby@proton.me)
-* 🚀  I'm currently working on [My-Telegram-Bot](http://github.com/prathamdby/My-Telegram-Bot)
+* 🚀  I'm currently working on [YeetAI](https://github.com/YeetCode-devs/YeetAI)
 * 🧠  I'm learning Computer Applications
 * 🤝  I'm open to collaborating on exciting projects as a full-stack developer and team member.
 * ⚡  Find my automation stuff and workflows at [@prathamdby-alt](https://github.com/prathamdby-alt).
